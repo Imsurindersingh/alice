@@ -1,4 +1,4 @@
-<h1 align="center">🎵 Alice Music Bot 🎵</h1>
+<h1 align="center"> GHOSTO_OMUSIC BOT𔓎</h1>
 
 <p align="center">
   <img src="https://graph.org/file/f586172fe40a0b5d0b0df.jpg" alt="Alice Music Logo" width="600" height="350">
